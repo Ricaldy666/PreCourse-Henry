@@ -1,2 +1,3 @@
-# PreCourse-Henry
-este es un repositorio de prueba 
+
+este es es un proyecto de como crear
+u repositorio y clonar un repositorio
